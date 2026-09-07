@@ -1,2 +1,7 @@
-# my-C-codes
-BTech AI/ML 2nd Year - C programming and DSA fundamentals. Learning data structures from scratch.
+# my-first-c-codes
+BTech 2nd Year - AI/ML
+Focus: C language + Data Structures & Algorithms
+
+Currently learning: Arrays, Linked List, Stack, Queue
+Goal: Strong problem-solving fundamentals
+
